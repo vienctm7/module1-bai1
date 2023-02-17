@@ -1,0 +1,21 @@
+.parent{
+    display: flex;
+    justify-content: space-around;
+}
+.children1{
+    border: 1px solid red;
+    margin-left: 10px;
+    width: 250px;
+    height: 700px;
+    background-color: aqua;
+}
+.children2{
+    border: 1px solid black;
+    width: 200px;
+    height: 300px;
+}
+.children3{
+    border: 1px solid black;
+    width: 200px;
+    height: 300px;
+}
